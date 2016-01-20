@@ -4,4 +4,6 @@ wqe
 12
 wer
 wqer
+
+qwer
 newfile.txt
